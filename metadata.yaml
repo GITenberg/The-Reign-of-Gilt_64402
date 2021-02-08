@@ -1,0 +1,34 @@
+_repo: The-Reign-of-Gilt_64402
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Phillips, David Graham
+    alias: Graham, John
+    birthdate: 1867
+    deathdate: 1911
+    gutenberg_agent_id: '235'
+    url: http://www.gutenberg.org/2009/agents/235
+    wikipedia: https://en.wikipedia.org/wiki/David_Graham_Phillips
+description: ''
+gutenberg_issued: '2021-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64402'
+  lccn: 05033196
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Social problems'
+- !lcsh 'United States -- Social conditions -- 1865-1918'
+- !lcc 'HN'
+- GITenberg
+tableOfContents: 'Part I. Plutocracy: We are not all money-crazed. The mania for gilt.
+  Plutocracy at home. Youth among the money-maniacs. Caste-compellers. Pauper-making.
+  The made-over White House. And Europe laughs -- Part II. Democracy: "We, the people"
+  The compeller of equality. Democracy''s dynamo. A nation of dreamers. Not generosity,
+  but justice. The inevitable ideal. Our allies from abroad. The real American woman.
+  As to success. The man of to-day and to-morrow.'
+title: The Reign of Gilt
+url: http://www.gutenberg.org/ebooks/64402
